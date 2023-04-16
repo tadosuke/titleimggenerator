@@ -15,7 +15,7 @@ _IMAGE_FILENAME_DICT = {
     'life': 'life.png',
     'music': 'music.png',
     'program': 'program.png',
-    'python': 'program.png',
+    'python': 'python.png',
     'voice': 'voice.png',
 }
 
